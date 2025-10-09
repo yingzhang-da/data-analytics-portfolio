@@ -23,7 +23,7 @@ Feel free to explore my repositories and connect with me, I’m always open to f
      - Airline Loyalty Program
      - Sales Analysis Report
      - KPI Card
-  * **Tableau** --> Go to Tableau Public
+  * **Tableau** --> [Go to Tableau Public](https://public.tableau.com/app/profile/ying.z/vizzes)
   * [**SQL**](#sql)
     * Hospital Analytics
     * Olist E-Commerce Performance and Customers Insights
