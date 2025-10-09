@@ -38,7 +38,7 @@ Feel free to explore my repositories and connect with me, I’m always open to f
 
 ### Power BI
 
-1. **Airline Loyalty Program** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZGUxOTk0MGMtNmM5Ni00NTczLWFkMDUtNTUyNTk1MGQ3Y2U1IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+**1. Airline Loyalty Program** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZGUxOTk0MGMtNmM5Ni00NTczLWFkMDUtNTUyNTk1MGQ3Y2U1IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
 
 This project analyzes an Airline Loyalty Program with a focus on measuring the **impact of a 2018 promotion campaign**.It provides insights into customer demographics, program performance, and member behavior, with the goal of understanding customer engagement and the effectiveness of promotional strategies.
 
@@ -53,13 +53,13 @@ This project analyzes an Airline Loyalty Program with a focus on measuring the *
 * **Data Modeling**: star schema design
 * **DAX**: Calculations and measures
 
-2. **Sales Analysis Report** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+**2. Sales Analysis Report** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
    
-3. **KPI Cards** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+**3. KPI Cards** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
 
 ### SQL 
 
-1. **Hospital Analytics**
+**1. Hospital Analytics**
 
 Code: [Hospital Analytics](https://github.com/yingzhang-data/Hospital-Analytics)
 
@@ -67,7 +67,7 @@ Description: This project supports Massachusetts General Hospital's annual perfo
 
 SQL Techniques: Used MySQL with Common Table Expressions (CTEs), window functions, and joins to analyze patient data, structure complex queries  
 
-2. **Olist E-Commerce Performance and Customers Insights**
+**2. Olist E-Commerce Performance and Customers Insights**
 
 Full Report: [Click Here](https://github.com/yingzhang-da/Olist_E-Commerce_Data_Analysis)  
 Tableau Dashboard: [Click Here](https://public.tableau.com/app/profile/ying.zhang2739/viz/OlistE-CommercePerformanceandCustomersInsights/KPIsSummary)  
@@ -79,7 +79,7 @@ Skills: MySQL, Relational Data Modeling, Tableau, Excel(Power Query)
 
 ### Python
 
-1. **RFM Analysis for Customer Segmentation**
+**1. RFM Analysis for Customer Segmentation**
 
 Code：[RFM Analysis](https://github.com/yingzhang-da/PortfolioProjects/blob/main/RFM%20Analysis%20for%20Customer%20Segmentation.ipynb)
 
@@ -88,7 +88,7 @@ Description: This project aims to categorize retail customers based on their pur
 Skills: Python, Data Wrangling & Preprocessing, Clustering & Segmentation, Data Visualization, Feature Engineering
 
 
-**Walmart Sales Forecasting and Exploratory Data Analysis (Case Study)**
+**2.Walmart Sales Forecasting and Exploratory Data Analysis (Case Study)**
 
 Code: [Walmart Sales Forecasting](https://github.com/yingzhang-da/PortfolioProjects/blob/main/Warmart%20Sales%20Forecasting%20and%20Exploratory%20Data%20Analysis.ipynb)
 
